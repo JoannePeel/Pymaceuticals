@@ -10,19 +10,22 @@ The objective of this work is to analyze the data and to show how four treatment
 
 Figure 1 shows the tumor volume with four different treatments throughout a treatment period of 45. Initially, all tumors have an average size of 45.0 ± 0.00 mm, independent of drug treatment. Tumor volume increases with Infubinol, Ketapril and the Placebo, while tumor volume decreases with Capomulin, reaching an average of 36.2 ± 1.22 mm.  With the other three treatments, average tumor volume at 45 days was higher than 65 cm. Infunibol was slightly more efficient than the placebo with a final tumor volume of 65.7 ± 1.14 mm, compared to 68.1 ± 1.35 mm for the placebo.
 
- 
+![](https://github.com/JoannePeel/Pymaceuticlas/blob/master/tumor_response.png) 
 Figure 1. Tumor volume response (mm3), with four drug treatments (Capomulin, Infubinol, Ketapril, Placebo) throughout 45 days of treatment.
 
 All four treatments had appearance of metastatic sites (Fig.4). The Capomulin treatment had the lowest formation of metastatic sites with an average of 1.5 ± 0.20 new sites formed after 45 days of treatment. Ketapril had the highest number of new metastatic sites (3.4 ± 0.28 new sites), followed by the placebo (3.3 ± 0.30 new sites).
- 
+
+
 Figure 2. Number of metastatic sites forming with four drug treatments (Capomulin, Infubinol, Ketapril, Placebo) throughout 45 days of treatment.
 
 Mouse survival was highest with the Capomulin treatment, and 84% of the mice survived the 45 day treatment period. Infubinol had the lowest survival rate (36%), which was even lower than the survival of mice treated with the placebo (44%).
- 
+
+![](https://github.com/JoannePeel/Pymaceuticlas/blob/master/mouse_survival.png)
 Figure 3. Percentage of mice surviving with four drug treatments (Capomulin, Infubinol, Ketapril, Placebo) throughout 45 days of treatment.
 
 Negative tumor volume change (-19.5%) was only achieved with Capomulin treatment (Fig. 4). The other three treatments showed positive tumor volume change. The highest volume change was observed with Ketapril (+57.0%).
  
+![](https://github.com/JoannePeel/Pymaceuticlas/blob/master/tumor_change.png)
 Figure 4. Percentage of change in tumor volume with four drug treatments (Capomulin, Infubinol, Ketapril, Placebo) throughout 45 days of treatment.
 
 *Conclusions*
