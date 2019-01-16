@@ -15,7 +15,7 @@ Figure 1. Tumor volume response (mm3), with four drug treatments (Capomulin, Inf
 
 All four treatments had appearance of metastatic sites (Fig.4). The Capomulin treatment had the lowest formation of metastatic sites with an average of 1.5 ± 0.20 new sites formed after 45 days of treatment. Ketapril had the highest number of new metastatic sites (3.4 ± 0.28 new sites), followed by the placebo (3.3 ± 0.30 new sites).
 
-
+![](https://github.com/JoannePeel/Pymaceuticlas/blob/master/Met_spread.png)
 Figure 2. Number of metastatic sites forming with four drug treatments (Capomulin, Infubinol, Ketapril, Placebo) throughout 45 days of treatment.
 
 Mouse survival was highest with the Capomulin treatment, and 84% of the mice survived the 45 day treatment period. Infubinol had the lowest survival rate (36%), which was even lower than the survival of mice treated with the placebo (44%).
